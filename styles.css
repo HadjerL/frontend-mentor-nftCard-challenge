@@ -25,7 +25,7 @@ body{
     max-width: 18rem;
     display: flex;
     flex-direction: column;
-    padding: 26px;
+    padding: 30px;
     border-radius: 24px;
 }
 .container:hover{
